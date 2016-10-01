@@ -1,2 +1,3 @@
 # Hello-World
-Preparing for new opportunities
+Preparing for new opportunities,
+I'm excited about learning how to code...
